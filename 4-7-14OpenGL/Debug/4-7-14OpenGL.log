@@ -1,0 +1,17 @@
+﻿Build started 9/29/2014 3:31:09 PM.
+     1>Project "D:\College\SophmoreSpringSemester\DSA1\DSA Final\4-7-14OpenGL\4-7-14OpenGL.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt source.cpp
+         Skipping... (no relevant changes detected)
+         source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\College\SophmoreSpringSemester\DSA1\DSA Final\Debug\4-7-14OpenGL.exe" /INCREMENTAL /NOLOGO glew32.lib freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\College\SophmoreSpringSemester\DSA1\DSA Final\Debug\4-7-14OpenGL.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\College\SophmoreSpringSemester\DSA1\DSA Final\Debug\4-7-14OpenGL.lib" /MACHINE:X86 Debug\Entity.obj
+         Debug\ShaderHelpers.obj
+         Debug\Shape.obj
+         Debug\source.obj
+         4-7-14OpenGL.vcxproj -> D:\College\SophmoreSpringSemester\DSA1\DSA Final\Debug\4-7-14OpenGL.exe
+     1>Done Building Project "D:\College\SophmoreSpringSemester\DSA1\DSA Final\4-7-14OpenGL\4-7-14OpenGL.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.97
